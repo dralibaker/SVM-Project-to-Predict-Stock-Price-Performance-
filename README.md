@@ -1,4 +1,4 @@
-# Project-4
+# SVM Project to Predict Stock Price Performance 
 
 Blog Post for this project can be found on Medium through the following Link: https://link.medium.com/4viYqNyC44
 The python libraries used in this project are numpy, pandas, math, sklearn, and matplotlib.
